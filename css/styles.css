@@ -1,0 +1,13 @@
+.row {
+    margin-bottom: 15;
+}
+.row > div {
+    border: 2px solid maroon;
+    background-color: gray;
+}
+ul {
+    list-style: none  ;
+}
+ul li {
+    display: inline;
+}
